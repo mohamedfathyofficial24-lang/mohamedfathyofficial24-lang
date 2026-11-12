@@ -24,5 +24,5 @@ I am a Computer Science student at the **Faculty of Computers and Artificial Int
     
 ### 📈 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[اسم_المستخدم_الخاص_بك_على_جيت_هب]&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedfathyofficial24-lang&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
