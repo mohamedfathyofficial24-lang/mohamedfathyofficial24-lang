@@ -8,7 +8,7 @@ I am a Computer Science student at the **Faculty of Computers and Artificial Int
 - 🎓 Studying Computer Science and Artificial Intelligence.
 - 🌱 Currently focusing on **Machine Learning & Data Science**.
 - 💡 Experienced in foundational programming, algorithms, and web technologies.
-- 📫 How to reach me: **[ضع إيميلك هنا]**
+- 📫 How to reach me: **mohamed.fathy.official24@gmail.com**
 
 ### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/mohamed-mohamed-fathy-79b7b03b0/" target="_blank">
