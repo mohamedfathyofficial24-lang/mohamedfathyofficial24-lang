@@ -21,8 +21,3 @@ I am a Computer Science student at the **Faculty of Computers and Artificial Int
     <img src="https://skillicons.dev/icons?i=python,c,java,js,html,css,mysql,git,github&theme=dark" alt="My Skills" />
   </a>
 </p>
-    
-### 📈 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedfathyofficial24-lang&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
